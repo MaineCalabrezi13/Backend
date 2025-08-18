@@ -14,9 +14,9 @@
 <h4>Aula 12 (20/10/2025): <a href="">DTO e Mapping</a></h4>
 <h4>Aula 13 (27/10/2025): <a href="">Paginação, Ordenação e Relacionamento</a></h4>
 <h4>Aula 14 (03/11/2025): <a href="">Avaliação Escrita II (N2a)</a></h4>
-<h4>Aula 15 (08/11/2025) - EAD: <a href="">CORS e Rate Limiting</a></h4>
-<h4>Aula 16 (10/11/2025) - EAD: <a href="">JWT e BCrypt</a></h4>
+<h4>Aula 15 (08/11/2025)  <a href="">CORS e Rate Limiting</a></h4>
+<h4>Aula 16 (10/11/2025)  <a href="">JWT e BCrypt</a></h4>
 <h4>Aula 17 (17/11/2025): <a href="">Apresentação do Projeto Intermediário (N2b)</a></h4>
-<h4>Aula 18 (24/11/2025) - EAD: <a href="">Desenvolvimento do Projeto Final</a></h4>
+<h4>Aula 18 (24/11/2025)  <a href="">Desenvolvimento do Projeto Final</a></h4>
 <h4>Aula 19 (01/12/2025): <a href="">Apresentação do Projeto Final (N3)</a></h4>
 <h4>Aula 20 (08/12/2025): <a href="">Avaliação Substitutiva</a></h4>
