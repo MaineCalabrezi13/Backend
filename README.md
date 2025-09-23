@@ -8,7 +8,7 @@
 <h4>Aula 6 (01/09/2025): <a href="">Avaliação Escrita Individual I (N1)</a></h4>
 <h4>Aula 7 (08/09/2025): <a href="">Frameworks e Webservices</a></h4>
 <h4>Aula 8 (15/09/2025): <a href="">Protocolo HTTP e REST</a></h4>
-<h4>Aula 9 (22/09/2025): <a href="">JSON e Integração Externa</a></h4>
+<h4>Aula 9 (22/09/2025): <a href="https://github.com/MaineCalabrezi13/Backend/tree/main/Aula%2022.09">JSON e Integração Externa</a></h4>
 <h4>Aula 10 (29/09/2025): <a href="">Repositórios e Banco de Dados</a></h4>
 <h4>Aula 11 (06/10/2025): <a href="">Enterprise Applications</a></h4>
 <h4>Aula 12 (20/10/2025): <a href="">DTO e Mapping</a></h4>
