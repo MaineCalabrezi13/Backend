@@ -6,7 +6,7 @@
 <h4>Aula 4 (18/08/2025): <a href="https://github.com/MaineCalabrezi13/Backend/tree/main/Aula%2018.08">Orientação à Objeto I</a></h4>
 <h4>Aula 5 (25/08/2025): <a href="https://github.com/MaineCalabrezi13/Backend/tree/main/Aula%2025.08">Orientação à Objeto II</a></h4>
 <h4>Aula 6 (01/09/2025): <a href="">Avaliação Escrita Individual I (N1)</a></h4>
-<h4>Aula 7 (08/09/2025): <a href="">Frameworks e Webservices</a></h4>
+<h4>Aula 7 (08/09/2025): <a href="https://github.com/MaineCalabrezi13/Backend/tree/main/Aula%2008.09">Frameworks e Webservices</a></h4>
 <h4>Aula 8 (15/09/2025): <a href="">Protocolo HTTP e REST</a></h4>
 <h4>Aula 9 (22/09/2025): <a href="https://github.com/MaineCalabrezi13/Backend/tree/main/Aula%2022.09">JSON e Integração Externa</a></h4>
 <h4>Aula 10 (29/09/2025): <a href="https://github.com/MaineCalabrezi13/Backend/tree/main/Aula%2029.09">Repositórios e Banco de Dados</a></h4>
